@@ -68,7 +68,7 @@ I worked in the client site (Scotibank Colpatria) as a contractor in a scrum tea
 > - Organize and prioritize work to complete assignments in a timely.
 
 ### Backend Web Developer at MDS E.U., Bogota, Colombia
-#### August 2016 — June 2018
+#### September 2016 — June 2018
 
 I worked in a team as a backend developer implementing REST services,I also worked in WordPress development and data modeling with relational and non-relational databases as MySQL and MongoDB respectly.
 
@@ -83,4 +83,16 @@ I worked in a team as a backend developer implementing REST services,I also work
 #### Tech stack:
 Typescript, Express, WordPress, Jest, NPM, SOAP Services, REST API, ReactJS, React Native, AWS EC2 Instances, Git and others.
 
+### Java Web Developer at Zabud Technologies, Cartagena de Indias, Colombia
+#### June 2015 — August 2016
 
+I worked in a scrum team as a Java SE 6 junior developer implementing JSF, I also worked with JavaScript and Dependency Injection pattern. For databases creation and data modeling I worked with MySQL, Oracle 11g (PLSQL) and PostgreSQL engines.
+
+#### Responsibilities:
+
+> - Organize and prioritize work to complete assignments in a timely.
+> - Analyze and create micro-services and covering edge cases.
+> - Sought to work through challenges and foster a positive team spirit.
+
+#### Tech stack:
+Java, JSF, Javascript, jQuery, Wordpress, PHP, REST API, Jasper Reports, Git and others.
