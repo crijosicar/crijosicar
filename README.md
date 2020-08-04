@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 I have a strong passion for server-side JavaScript and web application development, for more than 5 years I have been working with companies in development teams helping to improve code quality with good development practices and the latest standards.
 
+[Click here to go to my site!](http://crijosicar.com)
+
 ## Employment History
 
 ### NodeJS Developer at Globant, Bogota, Colombia
