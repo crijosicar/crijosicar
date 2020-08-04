@@ -27,11 +27,11 @@ Work in a scrum team as a back-end micro-services developer implementing lambda 
 
 #### Responsibilities:
 
-• Organize and prioritize work to complete assignments in a timely.
-• Analyze and create micro-services and covering edge cases.
-• Work with multiple teams over the world.
-• Integration with third-party services (Iterable, Auth0 and others).
-• Pro efficient communication with native English speakers.
+> - Organize and prioritize work to complete assignments in a timely.
+> - Analyze and create micro-services and covering edge cases.
+> - Work with multiple teams over the world.
+> - Integration with third-party services (Iterable, Auth0 and others).
+> - Pro efficient communication with native English speakers.
 
 #### Technologies implemented to carry out the activities:
 • Typescript
