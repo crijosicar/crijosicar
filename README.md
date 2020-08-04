@@ -35,12 +35,8 @@ I'm working in a scrum team as a backend microservices developer implementing la
 > - Pro efficient communication with native English speakers.
 
 #### Tech stack:
-> - Typescript.
-> - Jest.
-> - NPM.
-> - Lambda functions.
-> - Step functions.
-> - Git.
+Typescript, Jest, NPM,  Lambda functions, Step functions, Git and others.
+
 
 ### NodeJS Developer at Experis (Manpower Group), Bogota, Colombia
 #### January 2019 — June 2019
@@ -57,12 +53,7 @@ I worked in the client site (DXC Technology) as a contractor in a scrum team as 
 > - Analyze and create micro-services and covering edge cases.
 
 #### Tech stack:
-> - Typescript.
-> - Express.
-> - Jest.
-> - NPM.
-> - SOAP Services.
-> - Git.
+Typescrip, Express, Jest, NPM, SOAP Services, Git and others.
 
 ### Java Software Engineer at AOS S.A.S, Bogota, Colombia
 #### July 2018 — January 2019
@@ -90,16 +81,6 @@ I worked in a team as a backend developer implementing REST services,I also work
 > - Analyze and create REST services.
 
 #### Tech stack:
-> - Typescript.
-> - Express.
-> - WordPress
-> - Jest.
-> - NPM.
-> - SOAP Services.
-> - REST API
-> - ReactJS
-> - React Native
-> - AWS EC2 Instances
-> - Git.
+Typescript, Express, WordPress, Jest, NPM, SOAP Services, REST API, ReactJS, React Native, AWS EC2 Instances, Git and others.
 
 
