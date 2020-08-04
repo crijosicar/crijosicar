@@ -34,11 +34,9 @@ Work in a scrum team as a back-end micro-services developer implementing lambda 
 > - Pro efficient communication with native English speakers.
 
 #### Technologies implemented to carry out the activities:
-• Typescript
-• Jest
-• NPM
-• Lambdafunctions
-• Step functions
-• Git
-
-
+* Typescript
+* Jest
+* NPM
+* Lambda functions
+* Step functions
+* Git
