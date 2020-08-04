@@ -75,3 +75,31 @@ I worked in the client site (Scotibank Colpatria) as a contractor in a scrum tea
 > - Definition of application architecture bases on Scotibank standards .
 > - Create architectural views and diagrams of applications using Microsoft Visio 2013.
 > - Organize and prioritize work to complete assignments in a timely.
+
+### Backend Web Developer at MDS E.U., Bogota, Colombia
+#### August 2016 — June 2018
+
+I worked in a team as a backend developer implementing REST services,I also worked in WordPress development and data modeling with relational and non-relational databases as MySQL and MongoDB respectly.
+
+#### Responsibilities:
+
+> - Integration of external services from clients.
+> - Give support to development team about services.
+> - Work with multiple teams over the world.
+> - Organize and prioritize work to complete assignments in a timely.
+> - Analyze and create REST services.
+
+#### Tech stack:
+> - Typescript.
+> - Express.
+> - WordPress
+> - Jest.
+> - NPM.
+> - SOAP Services.
+> - REST API
+> - ReactJS
+> - React Native
+> - AWS EC2 Instances
+> - Git.
+
+
