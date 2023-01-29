@@ -25,12 +25,12 @@ Skills: NodeJS, ReactJS, TypeScript, JavaScript, NestJS, MongoDB, MySQL, Postgre
 ### Founder at cristiansierra.dev · Full-time
 #### April 2016 - Present
 
-I am a Senior Software Engineer producing web solutions that help B2C enterprises and entrepreneurs gain an online presence. I help convert my clients’ online visitors into potential customers using SEO techniques. My work includes
+I am a Senior Software Engineer producing web solutions that help B2C enterprises and entrepreneurs gain an online presence. I help convert my clients’ online visitors into potential customers using SEO techniques. 
+My work includes:
+
 > - the creation of migration plans for websites and web applications,
 > - configuring hosting and web servers, and
 > - developing multi-platform mobile applications.
-
-If you are a B2C company looking to grow your business online and gain clients and revenue, I would love to showcase the work I can do to accomplish your goals.
 
 #### Skills:
 Search Engine Optimization (SEO) · Web Design · Laravel · WordPress · Software Development · Web Development · React.js · React Native · HTML5 · Agile Methodologies · Node.js · Back-End Web Development.
