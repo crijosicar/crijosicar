@@ -1,99 +1,101 @@
-### Hi there 👋
+### Hi there 👋, I'm Cristian S.
 
-<!--
-**crijosicar/crijosicar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Professional Summary
 
-Here are some ideas to get you started:
+I am a Senior Software Engineer producing web solutions that help B2C enterprises and entrepreneurs gain in their online presence. Using SEO techniques, I help convert my clients’ online visitors into potential customers. My work includes the creation of migration plans for websites and web applications, configuring hosting and web servers, and developing multi-platform mobile applications.
+If you are a B2C company looking to grow your business online and gain clients and revenue I would love to showcase the work that I can do to accomplish your goals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: NodeJS, ReactJS, TypeScript, JavaScript, NestJS, MongoDB, MySQL, PostgreSQL, Scrum, AWS, Git, Jest, and Jenkins.
 
-## Profile
+- 🔭 I’m currently working on Making businesses
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on Technological Projects
+- 💬 Ask me about How to convert customer to clients
+- 📫 How to reach me: hello@cristiansierra.dev
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I love coffee... so bad.
 
-I have a strong passion for server-side JavaScript and web application development, for more than 5 years I have been working with companies in development teams helping to improve code quality with good development practices and the latest standards.
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/crijosicar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/crijosicar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://cristiansierra.dev)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=crijosicar&show_icons=true&count_private=true)
 
 ## Employment History
 
-### NodeJS Developer at Globant, Bogota, Colombia
-#### June 2019 - Currently working here
+### Founder at cristiansierra.dev · Full-time
+#### April 2016 - Present
 
-I'm working in a scrum team as a backend microservices developer implementing lambda functions in AWS and NestJS with Dependency Injection pattern and NodeJS. I also work with non-relational databases as MongoDB and DynamoDB.
+I am a Senior Software Engineer producing web solutions that help B2C enterprises and entrepreneurs gain an online presence. I help convert my clients’ online visitors into potential customers using SEO techniques. My work includes
+> - the creation of migration plans for websites and web applications,
+> - configuring hosting and web servers, and
+> - developing multi-platform mobile applications.
 
-#### Responsibilities:
+If you are a B2C company looking to grow your business online and gain clients and revenue, I would love to showcase the work I can do to accomplish your goals.
 
-> - Organize and prioritize work to complete assignments in a timely.
-> - Analyze and create micro-services and covering edge cases.
-> - Work with multiple teams over the world.
+#### Skills:
+Search Engine Optimization (SEO) · Web Design · Laravel · WordPress · Software Development · Web Development · React.js · React Native · HTML5 · Agile Methodologies · Node.js · Back-End Web Development.
+
+### Senior Software Engineer at Dualboot Partners · Contract Full-time
+#### June 2019 - September 2021
+
+> - Designed and standardized the structure of the database for DynamoDB.
+
+#### Skills:
+AWS CloudFormation · Webpack · GraphQL · Next.js · Microservices · React.js · Node.js · Shopify.
+
+### Senior Software Engineer at Cafeto Software · Contract Full-time
+#### Sep 2021 - May 2022
+
+> - Designed and standardized the structure of the database for DynamoDB.
+> - Developed microservices for Lambda functions to support the UI layer in VUE.
+> - Promoted the implementation of best practices through the PR review process.
+
+#### Skills:
+AWS CloudFormation · Webpack · AWS Lambda · Amazon Dynamodb · Serverless Framework · Java · Object-Oriented Programming (OOP) · Node.js · Amazon Web Services (AWS)
+
+### NodeJS Developer at Globant · Full-time
+#### June 2019 - September 2021
+
+> - Worked with the product team developing and implementing new features with the latest technologies such as NodeJS, ReactJS, MongoDB, Typescript, Javascript as well as some additional technologies required.
+> - Ownership and delivered high-quality software features, including the development of unit test with Jest.
+> - Provided mentorship to lower range team members through reviewing the design and codebase implementations.
 > - Integration with third-party services (Iterable, Auth0 and others).
-> - Pro efficient communication with native English speakers.
+> - PParticipated actively in the triaging of new software features.
 
-#### Tech stack:
-Typescript, Jest, NPM,  Lambda functions, Step functions, Git and others.
+#### Skills:
+Webpack · NestJS · Jest · Jenkins · AWS Lambda · Amazon Dynamodb · TypeScript · Node.js · MongoDB.
 
-
-### NodeJS Developer at Experis (Manpower Group), Bogota, Colombia
+### NodeJS Developer at DXC Technology · Full-time
 #### January 2019 — June 2019
 
-I worked in the client site (DXC Technology) as a contractor in a scrum team as a head of SOAP services and integration and backend developer of microservices with Express, Typescript and Dependency Injection pattern in NodeJS.
+> - Led the SOAP web services development and integration team and was on charge of the building and documenting of SOAP services architecture.
+> - Worked with the Product team developing and implementing new features with the latest technologies such as NodeJS, Google Storage, Typescript, Jest, and any additional technology involved in the improvement of the platform..
+> - Delivered high-quality software features from design to release including conducting unit and system tests, and triaging customer issues..
+> - Research and implement new technologies to improve our production infrastructure.
 
-#### Responsibilities:
+#### Skills:
+Webpack · Cloud Firestore · Jest · TypeScript · Node.js · Google Cloud Platform (GCP) AWS CloudFormation · Webpack · GraphQL · Next.js · Microservices · React.js.
 
-> - Work as Bridge between development team and Davivienda Bank.
-> - Integration of external SOAP services from client (Davivienda Bank).
-> - Give support to development team about SOAP services.
-> - Work with multiple teams over the world.
-> - Organize and prioritize work to complete assignments in a timely.
-> - Analyze and create micro-services and covering edge cases.
-
-#### Tech stack:
-Typescrip, Express, Jest, NPM, SOAP Services, Git and others.
-
-### Java Software Engineer at AOS S.A.S, Bogota, Colombia
+### Java Software Engineer at Scotiabank Colpatria · Full-time
 #### July 2018 — January 2019
 
-I worked in the client site (Scotibank Colpatria) as a contractor in a scrum team as developer doing gathering architecture of applications and developing architecture to bring applications to accomplish with Scotibank standards.
+> - Developed architectural solutions for databases, programming languages, and web services, among other internal tools.
+> - Decided on the platforms and coding standards used in project development based on ScotiaBank standards.
+> - Determined project timelines and completed work to deadlines depending on the timing from third-party software factories in charge of the software maintenance.
 
-#### Responsibilities:
+#### Skills:
+Visio 2013 · SQL · Java · J2EE · Spring · Hibernate · JSP · JavaScript · HTML · CSS · XML · Oracle · MySQL · PL/SQL · Web Services · SOAP · REST · JUnit · Maven · Ant · Eclipse · JIRA · Confluence · Git · SVN.
 
-> - Application architecture gathering.
-> - Definition of application architecture bases on Scotibank standards .
-> - Create architectural views and diagrams of applications using Microsoft Visio 2013.
-> - Organize and prioritize work to complete assignments in a timely.
-
-### Backend Web Developer at MDS E.U., Bogota, Colombia
+### Backend Web Developer at MDS Digital · Full-time
 #### September 2016 — June 2018
 
-I worked in a team as a backend developer implementing REST services,I also worked in WordPress development and data modeling with relational and non-relational databases as MySQL and MongoDB respectly.
+> - Built web applications using AngularJS, ReactJS, Laravel Blade, and WordPress development.
+> - Designed mobile applications using React Native applications.
+> - Configured and maintenance of Amazon Web Services instances.
+> - Moulded a bunch of platforms using Laravel 4; some examples are, Colsubsidio, Foros Semana, and Dr. Pepper, among others.
+> - Worked on SQL development using MySQL engine.
+> - Created rest and soap web services for essential clients in Colombia, Mexico and USA.
 
-#### Responsibilities:
-
-> - Integration of external services from clients.
-> - Give support to development team about services.
-> - Work with multiple teams over the world.
-> - Organize and prioritize work to complete assignments in a timely.
-> - Analyze and create REST services.
-
-#### Tech stack:
+#### Skills:
 Typescript, Express, WordPress, Jest, NPM, SOAP Services, REST API, ReactJS, React Native, AWS EC2 Instances, Git and others.
 
-### Java Web Developer at Zabud Technologies, Cartagena de Indias, Colombia
-#### June 2015 — August 2016
-
-I worked in a scrum team as a Java SE 6 junior developer implementing JSF, I also worked with JavaScript and Dependency Injection pattern. For databases creation and data modeling I worked with MySQL, Oracle 11g (PLSQL) and PostgreSQL engines.
-
-#### Responsibilities:
-
-> - Organize and prioritize work to complete assignments in a timely.
-> - Analyze and create micro-services and covering edge cases.
-> - Sought to work through challenges and foster a positive team spirit.
-
-#### Tech stack:
-Java, JSF, Javascript, jQuery, Wordpress, PHP, REST API, Jasper Reports, Git and others.
