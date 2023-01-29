@@ -1,5 +1,25 @@
 ### Hi there 👋, I'm Cristian S.
 
+![image](https://media.licdn.com/dms/image/C4E16AQGiMktuQkK6MA/profile-displaybackgroundimage-shrink_350_1400/0/1650733647395?e=1680739200&v=beta&t=fPr9g502KrOy2EkljvwhIX0nphYBP7r0zdpj5jZUAQw)
+
+I am a Senior Software Engineer producing web solutions that help B2C enterprises and entrepreneurs gain in their online presence. Using SEO techniques, I help convert my clients’ online visitors into potential customers. My work includes the creation of migration plans for websites and web applications, configuring hosting and web servers, and developing multi-platform mobile applications.
+
+If you are a B2C company looking to grow your business online and gain clients and revenue I would love to showcase the work that I can do to accomplish your goals.
+
+Skills: NodeJS, ReactJS, TypeScript, JavaScript, NestJS, MongoDB, MySQL, PostgreSQL, Scrum, AWS, Git, Jest, and Jenkins.
+
+
+- 🔭 I’m currently working on Making businesses
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on Technological Projects
+- 💬 Ask me about How to convert customer to clients
+- 📫 How to reach me: hello@cristiansierra.dev
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I love coffee... mad.
+
+](https://github.com/crijosicar) ](https://www.linkedin.com/in/https://www.linkedin.com/in/crijosicar//)[ [
+
+
 ## Professional Summary
 
 I am a Senior Software Engineer producing web solutions that help B2C enterprises and entrepreneurs gain in their online presence. Using SEO techniques, I help convert my clients’ online visitors into potential customers. My work includes the creation of migration plans for websites and web applications, configuring hosting and web servers, and developing multi-platform mobile applications.
